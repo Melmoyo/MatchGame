@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded",()=>{
-  event.preventDefault();
+  //event.preventDefault();
   const gridDisplay= document.querySelector(".game-container");
 
 const width=4;
