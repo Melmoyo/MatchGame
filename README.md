@@ -1,1 +1,1 @@
-# MatchGame
+This repository contains the code for a simple memory match game project, created as a learning exercise in front-end web development. It utilizes HTML for the structure, CSS for styling, and JavaScript to handle the game logic, including card flipping, matching, and win condition detection.
